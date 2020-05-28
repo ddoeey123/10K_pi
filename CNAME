@@ -1,6 +1,1 @@
-10kpi.com
-$ dig WWW.10kpi.COM +nostats +nocomments +nocmd
-  > ;WWW.10kpi.COM.                     IN      A
-  > WWW.10kpi.COM.              3592    IN      CNAME   YOUR-USERNAME.github.io.
-  > YOUR-USERNAME.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-  >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+10000pi.com
